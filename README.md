@@ -1,1 +1,3 @@
-# ARU-IntroToBioinformatics2
+### Topic 2 Intro to Python for Bioinformatics
+
+* This 
