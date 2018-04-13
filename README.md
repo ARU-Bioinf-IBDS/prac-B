@@ -14,4 +14,10 @@
   
 <img src="./images/clone_button.png"/>"
 
-* And  
+* In the Clone Library prompt accept the defaults by clicking on the `Clone` button:
+
+<img src="./images/clone_library_window.png"/>"
+
+* The `Public library` tick option means that other people can view your work if you share the url of your library.
+* N.B., you should only clone library once to avoid overwriting your work!
+* Start by working through the notebook: [0_introducing_jupyter_notebook.ipynb](./0_introducing_jupyter_notebook.ipynb)
