@@ -7,7 +7,7 @@
 
 
 ## Getting Started Instructions using Microsoft Azure Notebooks
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ARU-IntroToBioinformatics-P1/)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/IntroToBioinformatics-P1/)
 
 To clone the practical directly to your Microsoft Azure account just click the 'launch' badge above.
 
