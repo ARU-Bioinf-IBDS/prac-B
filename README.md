@@ -13,9 +13,9 @@ To clone the practical directly to your Microsoft Azure account just click the '
 
 Once you have cloned the practical then start by looking at the [Guide to Practical P1: Intro to Python for Bioinformatics](./0_practical_P1_guide.ipynb).
 
-## Instructions (Anaconda and CoCalc)
+## Getting Started Instructions using Anaconda 
 
-To use the notebooks and data files for the course,
+To use the practical with Anaconda installed on your computer,
 click on the green 'Clone or download' button above.
 You will see a pop-up window with a button 'Download ZIP'. Click on it. 
 The notebooks and data files will be downloaded as a compressed archive: a file with extension `.zip`.
