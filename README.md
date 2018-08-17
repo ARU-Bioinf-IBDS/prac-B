@@ -1,26 +1,24 @@
 # Introducing Jupyter Notebooks
 
 * This is the first part of practical P1 from the module *Introduction to Bioinformatics and Computer Science*
-* See also the Canvas page [Introducing Jupyter Notebooks](https://canvas.anglia.ac.uk/courses/1490/pages/p1-introducing-jupyter-notebooks)
+* See also the
 
 ## Getting Started Instructions using Microsoft Azure Notebooks
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibds10-jupyter-intro/)
 
-To clone the practical directly to your Microsoft Azure account just click the 'launch' badge above.
+To clone the practical directly to your Microsoft Azure account just click the *launch azurenb* icon above.
+See Canvas page [Introducing Jupyter Notebooks](https://canvas.anglia.ac.uk/courses/1490/pages/p1-introducing-jupyter-notebooks) for a work through showing how to do this.
 
 Once you have cloned the practical then click on the ? notebook to run it.
 
 ## Getting Started Instructions using Anaconda 
 
-To use this practical with Anaconda installed on your computer you will need to first download it.
+To use this practical with Anaconda installed on your computer you will need to first download it:
 
-https://github.com/ARU-Bioinformatics/ibds10-jupyter-intro/archive/master.zip
+[<img src="images/download_zip.png" alt="Download zip" width="50px"/>](https://github.com/ARU-Bioinformatics/ibds10-jupyter-intro/archive/master.zip)
 
-click on the green 'Clone or download' button above.
-You will see a pop-up window with a button 'Download ZIP'. Click on it. 
-The notebooks and data files will be downloaded as a compressed archive: a file with extension `.zip`.
-The archive will be in the folder where your web browser usually puts downloaded files.
-You will need to double-click on the downloaded file to uncompress it, 
-although your browser may have already done that automatically for you.
-
-Then run **jupyter-notebook** and open the ? notebook.
+* Click on the *Download zip* icon above†.
+* Once the file has downloaded, unzip the file†. 
+* Move the **ibds10-jupyter-intro** folder created to where you want to work. 
+* Start Jupyter Notebook†.
+* Then run **jupyter-notebook** and open the ? notebook.
