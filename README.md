@@ -1,7 +1,5 @@
 # Introducing Jupyter Notebooks
 
-* This is the first part of practical P1 from the module *Introduction to Bioinformatics and Computer Science*
-* See also the
 
 ## Getting Started Instructions using Microsoft Azure Notebooks
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
@@ -28,3 +26,12 @@ To use this practical with Anaconda installed on your computer you will need to 
 * Then run **jupyter-notebook** and open the 
   **introducing_jupyter_notebooks.ipynb** 
   notebook by clicking on it.
+
+-------------------------
+* Developed for proposed BSc Bioinformatics Degree Apprenticeship
+* For the module
+  *Introduction to Bioinformatics and Data Science*
+* This is the first part of 
+  *Practical P1: Introduction to Python for Bioinformatics*
+
+Copyright (c) 2018 Anglia Ruskin University
