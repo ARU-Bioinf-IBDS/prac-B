@@ -4,7 +4,7 @@
 * See also the
 
 ## Getting Started Instructions using Microsoft Azure Notebooks
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibds10-jupyter-intro/)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
 
 To clone the practical directly to your Microsoft Azure account just click the *launch azurenb* icon above.
 See Canvas page 
@@ -19,11 +19,11 @@ notebook to run it.
 
 To use this practical with Anaconda installed on your computer you will need to first download it:
 
-[<img src="images/download_zip.png" alt="Download zip" width="50px"/>](https://github.com/ARU-Bioinformatics/ibds10-jupyter-intro/archive/master.zip)
+[<img src="images/download_zip.png" alt="Download zip" width="50px"/>](https://github.com/ARU-Bioinformatics/ibdsA-intro/archive/master.zip)
 
 * Click on the *Download zip* icon above†.
 * Once the file has downloaded, unzip the file†. 
-* Move the **ibds10-jupyter-intro** folder created to where you want to work. 
+* Move the **ibdsA-intro** folder created to where you want to work. 
 * Start Jupyter Notebook†.
 * Then run **jupyter-notebook** and open the 
   **introducing_jupyter_notebooks.ipynb** 
