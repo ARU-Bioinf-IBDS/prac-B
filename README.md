@@ -12,7 +12,10 @@ Once you have cloned the practical then click on the ? notebook to run it.
 
 ## Getting Started Instructions using Anaconda 
 
-To use the practical with Anaconda installed on your computer,
+To use this practical with Anaconda installed on your computer you will need to first download it.
+
+https://github.com/ARU-Bioinformatics/ibds10-jupyter-intro/archive/master.zip
+
 click on the green 'Clone or download' button above.
 You will see a pop-up window with a button 'Download ZIP'. Click on it. 
 The notebooks and data files will be downloaded as a compressed archive: a file with extension `.zip`.
