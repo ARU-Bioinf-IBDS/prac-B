@@ -20,4 +20,4 @@ The archive will be in the folder where your web browser usually puts downloaded
 You will need to double-click on the downloaded file to uncompress it, 
 although your browser may have already done that automatically for you.
 
-Then run **jupyter-notebook** and open the ibds10-jupyter-intro.
+Then run **jupyter-notebook** and open the ? notebook.
