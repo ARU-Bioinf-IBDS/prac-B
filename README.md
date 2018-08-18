@@ -28,14 +28,17 @@ To use this practical with Anaconda installed on your computer you will need to 
   notebook by clicking on it.
 
 -------------------------
-* This is the first part of 
-  *Practical P1: Introduction to Python for Bioinformatics*
-* Module:
-  *Introduction to Bioinformatics and Data Science*
-* Original author Oliver S. Smart,
-  developed for BSc Bioinformatics Degree Apprenticeship,
-  [Department of Biomedical & Forensic Sciences,
-  Anglia Ruskin University
-  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
 
-Copyright (c) 2018 Anglia Ruskin University
+> This is the first part of 
+> *Practical P1: Introduction to Python for Bioinformatics*
+>
+> Module:
+>  *Introduction to Bioinformatics and Data Science* 
+>
+> Original author: [Oliver S. Smart](https://www.linkedin.com/in/osmart/),
+> developed for BSc Bioinformatics Degree Apprenticeship,
+>  [Department of Biomedical & Forensic Sciences,
+>  Anglia Ruskin University
+>  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
+>
+> Copyright (c) 2018 Anglia Ruskin University
