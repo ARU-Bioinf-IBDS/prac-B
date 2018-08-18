@@ -32,11 +32,10 @@ To use this practical with Anaconda installed on your computer you will need to 
   *Practical P1: Introduction to Python for Bioinformatics*
 * Module:
   *Introduction to Bioinformatics and Data Science*
-* Original author Oliver S. Smart,  
-  Developed for BSc Bioinformatics Degree Apprenticeship,
-  [Department of Biomedical & Forensic Sciences](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science)
+* Original author Oliver S. Smart,
+  developed for BSc Bioinformatics Degree Apprenticeship,
+  [Department of Biomedical & Forensic Sciences,
   Anglia Ruskin University
-
-
+  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
 
 Copyright (c) 2018 Anglia Ruskin University
