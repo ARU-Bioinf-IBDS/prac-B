@@ -62,7 +62,7 @@ To use this practical with Jupyter Notebook installed on your computer you will 
 
 * Click on the *Download zip* icon above.
 * Once the file has downloaded, unzip the file†. 
-* Move the **ibdsA-intro** folder created to where you want to work†. 
+* Move the **ibdsA-intro-master** folder created to where you want to work†. 
 * Start Jupyter Notebook† opening a browser tab/window.
 * Open the **introducing_jupyter_notebooks.ipynb** 
   notebook by clicking on it in your browser. Work through the notebook.
