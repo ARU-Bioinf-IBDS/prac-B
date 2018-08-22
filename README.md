@@ -24,14 +24,9 @@ as part of a
 [Azure Notebooks](https://notebooks.azure.com/)
 is a free service that allows anyone to develop and run code
 in their browser using Jupyter without installing
-any software on their computer. [Azure Notebooks](https://notebooks.azure.com/)
-is provided by Microsoft and requires 
-a Microsoft Account to use: Anglia Ruskin students should use their ARU account,
-as explained 
-[here](https://web.anglia.ac.uk/it/services/studentemail/login.phtml) 
-and in this 
-[video](https://web.anglia.ac.uk/media/videos/ITServices/loginGuide.mp4).
-
+any software on their computer. 
+Azure Notebooks is provided by Microsoft and requires 
+a Microsoft Account to use (Anglia Ruskin students should use their ARU account).
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)
 ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
@@ -50,18 +45,22 @@ and in this
 
 ## Getting Started Instructions using Anaconda 
 
+It is best to use Azure Notebooks for this practical but if there is a problem with doing
+this you can install Jupyter Notebook on your computer and run it locally.
+To install Jupyter Notebook follow instructions at https://www.anaconda.com/distribution/
+
 To use this practical with Anaconda installed on your computer you will need to first download it:
 
 [<img src="images/download_zip.png" alt="Download zip" width="50px"/>](https://github.com/ARU-Bioinformatics/ibdsA-intro/archive/master.zip)
 
-* Click on the *Download zip* icon above†.
+* Click on the *Download zip* icon above.
 * Once the file has downloaded, unzip the file†. 
-* Move the **ibdsA-intro** folder created to where you want to work. 
-* Start Jupyter Notebook†.
-* Then run **jupyter-notebook** and open the 
-  **introducing_jupyter_notebooks.ipynb** 
-  notebook by clicking on it.
+* Move the **ibdsA-intro** folder created to where you want to work†. 
+* Start Jupyter Notebook† opening a browser tab/window.
+* Open the **introducing_jupyter_notebooks.ipynb** 
+  notebook by clicking on it in your browser.
 
+  † How you do this varies between Windows, Mac and Linux computers.
 -------------------------
 
 > This is the first part of 
