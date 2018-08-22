@@ -56,7 +56,7 @@ It is best to use Azure Notebooks for this practical but if there is a problem w
 this you can install Jupyter Notebook on your computer and run it locally.
 To install Jupyter Notebook follow instructions at https://www.anaconda.com/distribution/
 
-To use this practical with Anaconda installed on your computer you will need to first download it:
+To use this practical with Jupyter Notebook installed on your computer you will need to first download it:
 
 [<img src="images/download_zip.png" alt="Download zip" width="50px"/>](https://github.com/ARU-Bioinformatics/ibdsA-intro/archive/master.zip)
 
