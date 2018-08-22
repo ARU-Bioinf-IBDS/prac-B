@@ -50,7 +50,7 @@ settings are "public"). We will use this feature in the "seminars".
   **introducing_jupyter_notebooks.ipynb** 
   notebook to run your first Jupyter Notebook and work through it.
 
-## Getting Started Instructions using Anaconda 
+## Getting Started Instructions using local Jupyter Notebook installation
 
 It is best to use Azure Notebooks for this practical but if there is a problem with doing
 this you can install Jupyter Notebook on your computer and run it locally.
