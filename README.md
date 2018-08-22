@@ -24,8 +24,7 @@ as part of a
 [Azure Notebooks](https://notebooks.azure.com/)
 is a free service that allows anyone to develop and run code
 in their browser using Jupyter without installing
-any software on their computer.  
-[Azure Notebooks](https://notebooks.azure.com/)
+any software on their computer. [Azure Notebooks](https://notebooks.azure.com/)
 is provided by Microsoft and requires 
 a Microsoft Account to use: Anglia Ruskin students should use their ARU account,
 as explained 
@@ -38,9 +37,16 @@ and in this
 ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
 * To import this practical directly to your Azure Notebooks account
   just click on the the *launch azurenb* icon above.
+* Login to your Microsoft Account,  Anglia Ruskin students should use their ARU account,
+  as explained 
+  [here](https://web.anglia.ac.uk/it/services/studentemail/login.phtml) 
+  and in this 
+  [video](https://web.anglia.ac.uk/media/videos/ITServices/loginGuide.mp4).
+* On the *Import from GitHub?* page that will be presented click on the **Import** button.
+* In the *Create New Library* window that then appears, accept the defaults and click on the **Import** button.
 * Once you have imported the practical then, in Azure Notebooks Library, click on the 
-**introducing_jupyter_notebooks.ipynb** 
-notebook to run your first Jupyter Notebook and work through it.
+  **introducing_jupyter_notebooks.ipynb** 
+  notebook to run your first Jupyter Notebook and work through it.
 
 ## Getting Started Instructions using Anaconda 
 
