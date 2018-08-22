@@ -58,9 +58,9 @@ To use this practical with Anaconda installed on your computer you will need to 
 * Move the **ibdsA-intro** folder created to where you want to work†. 
 * Start Jupyter Notebook† opening a browser tab/window.
 * Open the **introducing_jupyter_notebooks.ipynb** 
-  notebook by clicking on it in your browser.
+  notebook by clicking on it in your browser. Work through the notebook.
 
-  † How you do this varies between Windows, Mac and Linux computers.
+> † How you do this varies between Windows, Mac and Linux computers.
 -------------------------
 
 > This is the first part of 
