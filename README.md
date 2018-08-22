@@ -21,12 +21,19 @@ as part of a
 
 ## Getting Started Instructions using Azure Notebooks
 
+It is pretty easy to install the software needed to run Jupyter on 
+your computer (see below) but in these practicals we will be using 
+Microsoft Azure Notebooks. 
+
 [Azure Notebooks](https://notebooks.azure.com/)
 is a free service that allows anyone to develop and run code
 in their browser using Jupyter without installing
 any software on their computer. 
 Azure Notebooks is provided by Microsoft and requires 
-a Microsoft Account to use (Anglia Ruskin students should use their ARU account).
+a Microsoft Account to use (Anglia Ruskin students should use their 
+ARU account). A great feature of Azure Notebooks is that it is
+easy to share your notebooks with online links (provided the library
+settings are "public"). We will use this feature in the "seminars".
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)
 ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
