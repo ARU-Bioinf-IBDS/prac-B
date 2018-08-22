@@ -1,5 +1,14 @@
 # Introducing Jupyter Notebooks
 
+Jupyter Notebook is an "open-source web application that allows you to create and share documents that contain live Python code, equations, visualizations and narrative text" (http://jupyter.org/). This means that you can write Python code in your web browser (Chrome, Safari, Firefox) and mix in human readable text.
+
+Juypter notebooks are really useful for scientists because
+they make "data analysis easier to record, understand and reproduce" 
+as explained in this
+[Nature Article: Interactive notebooks: Sharing the code
+](http://doi.org/10.1038/515151a). 
+Note that the article discusses Juypter Notebooks using their original name "IPython Notebooks". 
+I use Jupyter Notebook in my research, for instance including a notebook. as part of a Research Paper.
 
 ## Getting Started Instructions using Microsoft Azure Notebooks
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
