@@ -1,4 +1,4 @@
-# Introducing Jupyter Notebooks
+# P1: Introducing Jupyter Notebooks
 
 Jupyter Notebook is an "open-source web application that allows you 
 to create and share documents that contain live Python code, equations,
