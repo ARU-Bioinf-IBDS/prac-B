@@ -1,4 +1,4 @@
-# P1: Introducing Jupyter Notebooks
+# P1. Exercise A: handling sequences in strings.
 
 Jupyter Notebook is an "open-source web application that allows you 
 to create and share documents that contain live Python code, equations,
