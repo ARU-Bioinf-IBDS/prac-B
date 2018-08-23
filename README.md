@@ -3,7 +3,7 @@
 Before starting this exercise you should work through
 **Chapter 1 Python Basics** from the
 [DataCamp online course Intro to Python for Data Science
-](https://www.datacamp.com/courses/intro-to-python-for-data-science). 
+](https://www.datacamp.com/courses/intro-to-python-for-data-science).  
 We will then use what you have learnt there to explore how biological 
 sequence data can be handled in Python.
 
