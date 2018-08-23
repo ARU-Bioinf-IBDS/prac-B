@@ -22,8 +22,8 @@ To use this exercise you should either:
 * or if you are using a local Jupyter Notebook installation, then 
   download:
 
-[<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-](https://github.com/ARU-Bioinformatics/ibdsA-ex-A/archive/master.zip)
+  [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
+  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-A/archive/master.zip)
 
   then unzip the file and move the directory to where you are storing your work.
   If this unfamiliar, please see: 
