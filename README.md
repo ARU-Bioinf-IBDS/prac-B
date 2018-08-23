@@ -1,4 +1,4 @@
-# P1: Exercise A: handling sequences in strings.
+# P1. Exercise A: handling sequences in strings.
 
 Before starting this exercise you should work through
 **Chapter 1 Python Basics** from the
