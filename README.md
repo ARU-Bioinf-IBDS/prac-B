@@ -29,9 +29,12 @@ To use this exercise you should either:
   If this unfamiliar, please see: 
   [Getting Started Instructions using local Jupyter Notebook installation
   ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-local-jupyter-notebook-installation).
+
+Then in Azure Notebooks or Jupyter Notebook open the **ex_A_workbook.ipynb** and work through it.
+
 -------------------------
 
-> This exercise is the part of 
+> This exercise is part of 
 > *Practical P1: Introduction to Python for Bioinformatics*
 >
 > Module:
