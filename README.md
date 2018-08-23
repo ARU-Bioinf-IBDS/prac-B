@@ -1,4 +1,4 @@
-# P1. Exercise A: handling sequences in strings.
+# Exercise A: handling sequences in strings.
 
 Before starting this exercise you should work through
 **Chapter 1 Python Basics** from the
@@ -35,7 +35,7 @@ Then in Azure Notebooks or Jupyter Notebook open the **ex_A_workbook.ipynb** and
 -------------------------
 
 > This exercise is part of 
-> *Practical P1: Introduction to Python for Bioinformatics*
+> *Practical A: Introduction to Python for Bioinformatics*
 >
 > Module:
 >  *Introduction to Bioinformatics and Data Science* 
