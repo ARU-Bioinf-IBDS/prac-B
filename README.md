@@ -1,4 +1,4 @@
-# P1. Exercise A: handling sequences in strings.
+# P1: Exercise A: handling sequences in strings.
 
 Before starting this exercise you should work through
 **Chapter 1 Python Basics** from the
@@ -15,7 +15,7 @@ To use this exercise you should either:
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
   ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-A/)
 
-  If this unfamiliar, please see: 
+  If this unfamiliar, please review: 
   [Getting Started Instructions using Azure Notebooks
   ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-azure-notebooks).
 
@@ -26,7 +26,7 @@ To use this exercise you should either:
   ](https://github.com/ARU-Bioinformatics/ibdsA-ex-A/archive/master.zip)
 
   then unzip the file and move the directory to where you are storing your work.
-  If this unfamiliar, please see: 
+  If this unfamiliar, please review: 
   [Getting Started Instructions using local Jupyter Notebook installation
   ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-local-jupyter-notebook-installation).
 
