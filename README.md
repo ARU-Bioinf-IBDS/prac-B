@@ -1,4 +1,4 @@
-# Exercise A: handling sequences in strings.
+# Practical B: handling sequences in strings.
 
 Before starting this exercise you should work through
 **Chapter 1 Python Basics** from the
@@ -13,22 +13,22 @@ To use this exercise you should either:
   by clicking on: 
 
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-A/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinf-IBDS/prac-B)
 
   If this unfamiliar, please review: 
   [Getting Started Instructions using Azure Notebooks
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-azure-notebooks).
+  ](https://github.com/ARU-Bioinf-IBDS/prac-A#getting-started-instructions-using-azure-notebooks).
 
 * or if you are using a local Jupyter Notebook installation, then 
   download:
 
   [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-A/archive/master.zip)
+  ](https://github.com/ARU-Bioinf-IBDS/prac-B/archive/master.zip)
 
   then unzip the file and move the directory to where you are storing your work.
   If this unfamiliar, please review: 
   [Getting Started Instructions using local Jupyter Notebook installation
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-local-jupyter-notebook-installation).
+  ](https://github.com/ARU-Bioinf-IBDS/prac-A#getting-started-instructions-using-local-jupyter-notebook-installation).
 
 Then in Azure Notebooks or Jupyter Notebook:
 * open the workbook **ex_A_workbook.ipynb** and work through it.
@@ -38,7 +38,8 @@ Then in Azure Notebooks or Jupyter Notebook:
 -------------------------
 
 > This exercise is part of 
-> [Practical A: Introduction to Python for Bioinformatics](https://github.com/ARU-Bioinformatics/ibdsA-index/blob/master/README.md)
+>
+> [IBDS Practicals](https://github.com/ARU-Bioinf-IBDS/index/)
 >
 > Module:
 >  *Introduction to Bioinformatics and Data Science* 
