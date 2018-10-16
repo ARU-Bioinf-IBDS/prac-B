@@ -31,9 +31,11 @@ To use this exercise you should either:
   ](https://github.com/ARU-Bioinf-IBDS/prac-A#getting-started-instructions-using-local-jupyter-notebook-installation).
 
 Then in Azure Notebooks or Jupyter Notebook:
-* open the workbook **ex_A_workbook.ipynb** and work through it.
-* once you have completed the workbook, then move onto the homework book **ex_A_homework.ipynb**
-* we will go through everyones completed notebook in *Seminar A*.
+* open the workbook **workbook_B.ipynb** and work through it.
+* once you have completed the workbook, then move onto the homework book **homework_B.ipynb**
+* then follow the instructions on Canvas page: 
+  [Reflection on Practical B: handling sequences in strings
+  ](https://canvas.anglia.ac.uk/courses/1490/discussion_topics/35295)
 
 -------------------------
 
